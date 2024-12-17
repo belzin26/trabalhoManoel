@@ -1,1 +1,1 @@
-# trabalhoManoel
+# trabalho desitnado a criação de um sistema destinado a oficinas implementando inicialmente com módulos de cadastros, edições e exclusões de arquivos. O sistema foi desenvolvido tanto para o formato de arquivo texto quanto para o formato binário.
