@@ -1,0 +1,4 @@
+0;Parafuso boca torta;asiatico;China;20.000000;24.000000;30;10
+1;parafuso boca torta;chines;um ai;25.000000;30.000000;20;10
+2;parafuso qualquer;joao;pedro;96.000000;115.199997;10;5
+3;parafuso;pedro;joao;85.000000;102.000000;16;8

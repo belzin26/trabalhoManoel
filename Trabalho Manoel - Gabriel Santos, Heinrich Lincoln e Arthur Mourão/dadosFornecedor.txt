@@ -1,0 +1,3 @@
+0;paulin;paulo;159988;158956;ifmg formiga;9870;ifmg@gmail.com
+1;china;chineza;154194;1215;china;8797;china@gmail.com
+2;chinez;china;15151;12244;chinachina;79798;china@gmail.com

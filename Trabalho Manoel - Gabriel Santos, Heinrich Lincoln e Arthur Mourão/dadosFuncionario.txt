@@ -1,0 +1,3 @@
+gabriel;1;1;1.00
+heinrich;3;3;3.00
+mouras;4;4;4.00

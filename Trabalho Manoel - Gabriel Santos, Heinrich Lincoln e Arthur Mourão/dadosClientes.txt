@@ -1,0 +1,9 @@
+0;gabreu;0;0;0;0
+1;gabreu;1;0;2;3
+2;Manoel;123456;IFMG;9870;manoel@gmail.com
+3;Manoel;123789;Formiga;(37) 9870;manoelFormiga@gmail.com
+4;clienteApagavel;5;5;5;5
+5;clienteApagavel2;6;6;6;6
+6;Pedro;7;7;7;7
+7;mouras;2;2;2;2
+8;manoel;123456;Formiga;9870;manoel@gmail.com
